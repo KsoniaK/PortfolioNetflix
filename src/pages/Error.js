@@ -16,7 +16,7 @@ function Error() {
         <div className='error-contenu'>
           <h1>Vous cherchez votre chemin ?</h1>
           <p>
-            Désolée, nous n'avons pas trouvé cette page.<br />
+            Désolé, nous n'avons pas trouvé cette page.<br />
             Un vaste choix de projets vous attend sur la page d'accueil.
           </p>
           <Link to={"/accueil"}>
